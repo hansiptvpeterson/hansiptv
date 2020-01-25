@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
+https://live.multicanais.com/mylive/discoverysd/video.m3u8?md5=rcO-OJY3F-F13AxNLCcOZg&expires=1579916749
+#EXTINF:-1 type="stream" tvg-id="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="Filme e Serie",Telecine Action
+https://live.multicanais.com/mylive/telecineactionsd/video.m3u8?md5=aGJCLHWBmpHeKzh9bEipAw&expires=1579916898
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="Filme e Serie",Telecine Premium
+https://live.multicanais.com/mylive/telecinepremiumsd/video.m3u8?md5=5wpPikv2J4jrArMaL8poxQ&expires=1579916962
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="Filme e Serie",Telecine Pipoca
+https://live.multicanais.com/live/telecinepipocasd/video.m3u8?md5=V0bGw2YoGqLLCPI816b8Ng&expires=1579917042
+#EXTINF:-1 type="stream" tvg-id="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record
+https://live.multicanais.com/mylive/recordhd/video.m3u8?md5=DFOCv3-IYurCvVdHjKIxvA&expires=1579917110
+#EXTINF:-1 type="stream" tvg-id="Globo Rio HD" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="TV Aberta",Globo Rio HD
+https://live.multicanais.com/live/globorjhd/video.m3u8?md5=VDqrqg1k_9k1WetsK1uHAA&expires=1579917161
+#EXTINF:-1 type="stream" tvg-id="History" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png" group-title="Documentario",History
+https://live.multicanais.com/mylive/historysd/video.m3u8?md5=tJ2gIRUYshLqJ9waXMh3Cg&expires=1579917307
+#EXTINF:-1 type="stream" tvg-id="Space" tvg-logo="https://i.ibb.co/6wYLB5f/space.png" group-title="Filme e Serie",Space
+https://live.multicanais.com/live/spacehd/video.m3u8?md5=Kp_9JXxMd8LMHrk2IulPfA&expires=1579917360
+#EXTINF:-1 type="stream" tvg-id="Multishow" tvg-logo="https://i.ibb.co/R0nqMq0/multishow.png" group-title="Entretenimento e Musica",Multishow
+https://live.multicanais.com/mylive/multishowsd/video.m3u8?md5=jnrxKmZ_apQ2vJAejGAGdQ&expires=1579917423
+#EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox
+https://live.multicanais.com/mylive/foxsd/video.m3u8?md5=sg2EANm5W5DqMZ5rcUx-8w&expires=1579917475
+#EXTINF:-1 type="stream" tvg-id="Nickelodeon" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Infantil",Nickelodeon
+https://live.multicanais.com/mylive/nicksd/video.m3u8?md5=1hpt7DljzNbP1fgvCsNhRg&expires=1579917761
+#EXTINF:-1 type="stream" tvg-id="Combate FHD" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate FHD
+https://live.multicanais.com/mylive/combatehd/video.m3u8?md5=DFThv9Dja37M2qU9FahW2w&expires=1579917545
+#EXTINF:-1 type="stream" tvg-id="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV
+https://live.multicanais.com/mylive/sportvhd/video.m3u8?md5=1qndtLi79ECuxxlbOBIG5w&expires=1579917608
+#EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
+https://live.multicanais.com/mylive/espnbrasilhd/video.m3u8?md5=nUwGKtwBMvtlppKjTP1wOw&expires=1579917660
+#EXTINF:-1 type="stream" tvg-id="Tooncast" tvg-logo="https://i.ibb.co/9YDb4fW/tooncast.png" group-title="Infantil",Tooncast
+://live.multicanais.com/live/tooncasthd/video.m3u8?md5=snxg3wThEwVSlbXmw01wjg&expires=1579917716
+
+
+
